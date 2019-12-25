@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(230, 225, 219);
+    overflow-x: hidden;
+}
+
+.Home .card{
+    margin-top: 8vh;
+}
+nav .navbar-brand {
+    margin-bottom: 40px;
+    position: relative;
+}
+nav .navbar-brand img{
+    position: absolute;
+    top: 55px;
+    height:80px;
+    left: 40px;
+    
+}
+
+.Home .card img{
+
+    height: 230px;
+}
+
+.searchPanal{
+    position: relative;
+    margin-right: 25px;
+}
+
+.searchButton{
+    position: absolute;
+    right: 10px;
+    top:27px;
+}
+
+.posts p{
+    font-size: 18px;
+}
